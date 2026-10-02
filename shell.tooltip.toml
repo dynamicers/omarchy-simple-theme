@@ -1,0 +1,8 @@
+[tooltip]
+# Hover tooltips across the bar, panels, and buttons. background-alpha of
+# 0.97 mirrors the legacy hard-coded tooltip opacity.
+background       = "#272a29"
+background-alpha = 1.0
+text             = "#a1a7ac"
+border           = "#434a48"
+border-alpha     = 1.0

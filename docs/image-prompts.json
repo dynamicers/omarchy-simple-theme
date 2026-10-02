@@ -1,0 +1,21 @@
+{
+  "generator": "Built-in image_gen",
+  "prompts": [
+    {
+      "name": "cyberpunk",
+      "prompt": "Use case: stylized-concept. Asset: single 16:9 desktop wallpaper, ideally 3840x2160. Create a restrained cyberpunk city at night in drizzle, monumental brutalist towers fading into fog, quiet empty street with very faint reflections, wide cinematic view, atmospheric and sophisticated. Simple Omarchy theme palette: predominant charcoal green-gray #141716 and #181b1a, low saturation slate blue #7d9fb5 and muted cyan #7c9fa2, tiny dusty amber accents #ad9177. Matte soft light, muted contrast, no bright neon, no pure white, no people, no text, no logos. Leave broad quiet negative space. This must feel soft and restful behind working windows, not a colorful gaming wallpaper."
+    },
+    {
+      "name": "minimal",
+      "prompt": "Use case: stylized-concept. Asset: single 16:9 desktop wallpaper, ideally 3840x2160. Minimal abstract landscape made from two or three sweeping sculptural matte curves like dark folded paper or dunes. Predominantly #181b1a and deeper #141716, gently illuminated gray-green edges, a whisper of slate blue #708994. Extremely restrained, spacious, subtle ambient light, beautiful fine material texture, low contrast and low saturation. One asymmetric focal form; large uncluttered negative space. No text, no logos, no grid, no bright gradients or white highlights."
+    },
+    {
+      "name": "nature",
+      "prompt": "Use case: photorealistic-natural. Asset: single 16:9 desktop wallpaper, ideally 3840x2160. A tranquil alpine lake at blue hour under mist, distant layered mountains and small dark conifer silhouettes, still water, authentic refined landscape photography. Dominant charcoal green-gray #181b1a/#141716, soft fog muted slate blue #7d9fb5, muted sage #92a784, subdued tonal range. Peaceful, moody and spacious with very low saturation, natural soft detail and wide negative space. No people, buildings, text, logos, neon, bright sky, sunset orange or white highlights."
+    },
+    {
+      "name": "omarchy",
+      "prompt": "Use case: stylized-concept. Asset: single 16:9 desktop wallpaper ideally 3840x2160 for the simple Omarchy theme. Reference image is the OFFICIAL Omarchy pixel wordmark; faithfully preserve its exact recognizable lettering and pixel geometry, do not invent another logo. Center the complete wordmark modestly, about 30 percent of frame width. Render it as understated engraved matte graphite on a charcoal green-gray surface #181b1a with #141716 edges, low-saturation gray-blue #708994 edges and subtle soft ambient relief. Sophisticated quiet minimal desktop wallpaper, enormous negative space, subtly tactile material. Very subdued contrast, no neon or bright highlights, no extra text, no decorative emblems, no watermark. Retain exact wordmark shape from reference."
+    }
+  ]
+}

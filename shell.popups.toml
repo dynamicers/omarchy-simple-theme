@@ -1,0 +1,11 @@
+[popups]
+# Shared by every bar flyout (dropdowns, OSD, popup cards).
+# Border accepts either a solid color or a Hyprland-style gradient. Border
+# widths accept one CSS-style scalar/list: N, "Y X", "T X B", or "T R B L";
+# individual border-width-top/right/bottom/left keys override the list.
+background       = "#272a29"
+background-alpha = 1.0
+text             = "#a1a7ac"
+border           = "#434a48"
+border-alpha     = 1.0
+# border-width     = 2

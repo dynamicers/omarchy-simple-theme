@@ -1,0 +1,4 @@
+*.bak.*
+__pycache__/
+docs/preview.svg
+.DS_Store
